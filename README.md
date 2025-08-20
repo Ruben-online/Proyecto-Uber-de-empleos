@@ -1,4 +1,4 @@
-# 🚀 Uber de Empleos - Proyecto 1 - Estructuras de Datos II
+# Uber de Empleos - Proyecto 1 - Estructuras de Datos II
 
 ![Python](https://img.shields.io/badge/Python-3.x-blue?logo=python&logoColor=white)
 ![VSCode](https://img.shields.io/badge/VSCode-Editor-brightgreen?logo=visual-studio-code&logoColor=white)
