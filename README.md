@@ -30,7 +30,7 @@ El proyecto incluye:
 
 ```bash
 # Clona este repositorio
-git clone https://github.com/ruben-online/Proyecto_Uber_de_empleos.git
+git clone https://github.com/Ruben-online/Proyecto_Uber_de_empleos.git
 
 # Ingresa al directorio del proyecto
 cd Proyecto_Uber_de_empleos
